@@ -1,6 +1,6 @@
 {
   "name": "@ivanhanak_com/array-unique",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight javascript library to remove duplicates from an array.",
   "main": "./dist/index.js",
   "scripts": {
