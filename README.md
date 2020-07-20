@@ -29,9 +29,9 @@ import arrayUnique from '@ivanhanak_com/array-unique';
 ```
 
 ## Usage
+The usage is pretty straightforward. 
 
-The function takes any number of string arguments.
-You can also use conditionals to append a className only if the condition is true.   
+Just import the library and pass an array as a first argument.
 
 ```javascript
 const arr = ["ivan", "likes", "🐕", "🐕", "🐕"];
